@@ -1,6 +1,6 @@
 ## BCR Car Rental | Landing Page
 
-<a href="https://ghozihaq2017.github.io/Tripwise-HW-Week2/" target="_blank">**Visit Now** ✈️</a>
+<a href="https://ghozihaq2017.github.io/BCR-Landing-Page/" target="_blank">**Visit Now** ✈️</a>
 
 ## Pages
 
@@ -19,6 +19,6 @@
 - Owl Carousel
 - Bootstrap Icon
 
-© 2024 Ghozi Izzulhaq
+© 2022 Ghozi Izzulhaq
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
