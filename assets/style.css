@@ -1,0 +1,305 @@
+/* Main Section */
+
+nav {
+  background-color: #f1f3ff;
+}
+
+nav ul li .btn {
+  background-color: #5cb85f;
+  color: white;
+}
+
+nav .logo {
+  width: 100px;
+  height: 34px;
+  background-color: #0d28a6;
+}
+
+#jumbotron {
+  background-color: #f1f3ff;
+  padding-top: 5rem;
+}
+
+#jumbotron .jumbotron .btn {
+  width: 140px;
+  height: 36px;
+  background-color: #5cb85f;
+  color: white;
+  font-size: 14px;
+}
+
+#jumbotron .mobil {
+  float: right;
+  position: relative;
+  right: -62px;
+}
+/* Akhir Main Section */
+
+/* Awal Our Section */
+
+#our-service {
+  margin: 5rem 5rem;
+  padding-top: 5rem;
+}
+
+#our-service .ceklis {
+  background-color: #cfd4ed;
+  color: #0d28a6;
+  border-radius: 50%;
+  padding: 0px 2px 0px 2px;
+}
+
+#our-service ul {
+  list-style: none;
+  padding-left: 0;
+  line-height: 2.5rem;
+}
+/* Akhir Our Section */
+
+/* Awal Why us */
+
+#why-us {
+  margin: 5rem 5rem;
+  padding-top: 5rem;
+}
+
+#why-us .card {
+  border-radius: 5px;
+}
+
+#why-us .thumbs {
+  color: #ffffff;
+  background-color: #f9cc00;
+  border-radius: 50%;
+  padding: 0px 5px 3px 5px;
+}
+
+#why-us .tag {
+  color: #ffffff;
+  background-color: #fa2c5a;
+  border-radius: 50%;
+  padding: 2px 4px 2px 7px;
+}
+
+#why-us .clock {
+  color: #ffffff;
+  background-color: #0d28a6;
+  border-radius: 50%;
+  padding: 2px 5px 3px 7px;
+}
+
+#why-us .award {
+  color: #ffffff;
+  background-color: #5cb85f;
+  border-radius: 50%;
+  padding: 2px 5px 3px 6px;
+}
+
+/* Why us Section */
+
+/* Testimonial Section */
+#testimonial {
+  margin: 5rem 5rem 0 5rem;
+  padding-top: 5rem;
+}
+
+/* Akhir Testimonial */
+
+/* Awal Getting Started */
+#getting-started {
+  margin: 5rem 5rem;
+  padding-top: 5rem;
+}
+
+#getting-started .getting {
+  background-color: #0d28a6;
+  color: #ffffff;
+  border-radius: 10px;
+  padding: 4rem 9rem;
+}
+
+#getting-started .btn {
+  background-color: #5cb85f;
+  color: white;
+}
+
+/* Akhir Getting Started */
+
+/* Frequently Asked Question */
+#frequently-asked-question {
+  margin: 5rem 5rem;
+  padding-top: 5rem;
+}
+
+/* Footer */
+#footer .social {
+  word-spacing: 20px;
+}
+
+.instagram,
+.twitter,
+.twitch,
+.facebook,
+.mail {
+  color: #ffffff;
+  background-color: #0d28a6;
+  border-radius: 50%;
+  padding: 5px 8px 5px 8px;
+}
+
+.logo {
+  width: 100px;
+  height: 34px;
+  background-color: #0d28a6;
+}
+
+/* Owl-Caraosel */ /* Owl Carousel Slide Design by www.idblanter.com */
+.kartu {
+  width: 619px;
+  height: 270px;
+  background-color: #f1f3ff;
+  border-radius: 10px;
+  display: flex;
+}
+
+.buatfoto {
+  position: relative;
+  top: 70px;
+  left: 50px;
+}
+.buatcaption {
+  width: 415px;
+  position: relative;
+  top: 70px;
+  left: 75px;
+}
+
+.bintang {
+  color: #f9cc00;
+}
+
+/* Responsive */
+@media screen and (max-width: 576px) {
+  #jumbotron .fotomobil {
+    width: 400px;
+    position: relative;
+    left: -80px;
+    padding-top: 30px;
+  }
+
+  #our-service {
+    padding-top: 0;
+    margin-top: 0;
+    margin-bottom: 30px;
+  }
+
+  #our-service .fotocewe {
+    width: 300px;
+    position: relative;
+    left: -50px;
+    padding-bottom: 20px;
+  }
+
+  #our-service .service {
+    position: relative;
+    left: -50px;
+    margin-right: 0;
+  }
+
+  #our-service .serpis {
+    width: 320px;
+  }
+
+  #why-us {
+    padding-top: 0;
+    margin-top: 0;
+  }
+
+  #why-us .whyyy {
+    position: relative;
+    left: -40px;
+    margin-right: 0;
+  }
+
+  #why-us .mengapa {
+    width: 320px;
+  }
+
+  #testimonial {
+    margin-top: 0;
+    padding-top: 0;
+  }
+
+  #testimonial .tekstesti {
+    width: 400px;
+    position: relative;
+    left: -100px;
+  }
+
+  /* carousel */
+  .kartu {
+    width: 280px;
+    height: 170px;
+    background-color: #f1f3ff;
+    border-radius: 10px;
+    display: flex;
+  }
+
+  .buatfoto {
+    width: 40px;
+    position: relative;
+    top: 70px;
+    left: 20px;
+  }
+  .buatcaption {
+    font-size: 10px;
+    width: 200px;
+    position: relative;
+    top: 40px;
+    left: 35px;
+  }
+  /* Akhir Caraosel */
+
+  #getting-started {
+    margin-top: 0;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding-left: 0;
+    width: 370px;
+  }
+
+  #getting-started .judulgetting {
+    width: 300px;
+    position: relative;
+    left: -115px;
+  }
+
+  #getting-started .isigetting {
+    margin-top: 20px;
+    margin-left: 0px;
+    width: 280px;
+    position: relative;
+    left: -150px;
+    text-align: justify;
+  }
+
+  #getting-started .tombolgetting {
+    margin-top: 20px;
+    width: 180px;
+    position: relative;
+    left: -50px;
+  }
+
+  #frequently-asked-question {
+    padding-top: 0;
+    padding-bottom: 20px;
+    margin-top: 0;
+    margin-bottom: 30px;
+  }
+
+  .daftarFAQ {
+    width: 340px;
+    position: relative;
+    left: -50px;
+  }
+}
